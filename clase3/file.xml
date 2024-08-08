@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0"><object model="publicaciones.post" pk="1"><field name="titulo" type="CharField">post1</field><field name="body" type="TextField">awdfsddwasfd</field><field name="fecha_public" type="DateField">2024-07-24</field></object><object model="publicaciones.post" pk="2"><field name="titulo" type="CharField">post2</field><field name="body" type="TextField">adsfgfdafsgf</field><field name="fecha_public" type="DateField">2024-07-24</field></object></django-objects>
